@@ -15,7 +15,7 @@ namespace WebApplication10.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Its a testing.";
+            ViewData["Message"] = "Its a testing1.";
 
             return View();
         }
